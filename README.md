@@ -28,7 +28,7 @@ A ferramenta desenvolvida neste projeto busca encontrar uma rota alternativa e m
 
 ## 📷 **Mapas**
 
-Abaixo estão as rotas criadas:
+Abaixo estão as rotas criadas, saindo de Sorocaba:
 
 <p align="center">
   <img src="https://github.com/LuucasGabriel/ContosoRetail_Rotas/blob/main/MAPA%20IMG/Mapa.png?raw=true" alt="Dashboard Principal" width="800"/>
