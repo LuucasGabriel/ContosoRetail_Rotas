@@ -26,6 +26,22 @@ Com base nesse cenário, o objetivo deste projeto é realizar uma análise de ro
 
 A ferramenta desenvolvida neste projeto busca encontrar uma rota alternativa e mais eficiente para as entregas, visualizando o trajeto proposto em um mapa interativo.
 
+## 📷 **Mapas**
+
+Abaixo estão as rotas criadas:
+
+<p align="center">
+  <img src="https://github.com/LuucasGabriel/ContosoRetail_Rotas/blob/main/MAPA%20IMG/Mapa.png?raw=true" alt="Dashboard Principal" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/LuucasGabriel/ContosoRetail_Rotas/blob/main/MAPA%20IMG/Mapa1.png?raw=true" alt="Dashboard Principal" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/LuucasGabriel/ContosoRetail_Rotas/blob/main/MAPA%20IMG/Mapa2.png?raw=true" alt="Dashboard Principal" width="800"/>
+</p>
+
 ## Funcionamento
 
 O projeto utiliza um notebook Jupyter (`calculo de rotas.ipynb`) para:
