@@ -2,7 +2,7 @@
 
 ## Motivação
 
-Este projeto foi iniciado a partir de um insight obtido através da análise de dados da `ContosoRetailDW` no Power BI. A análise revelou um número significativo de entregas atrasadas originadas da planta de Sorocaba, especialmente na categoria de produtos `CA06`, que acumula mais de 13.000 entregas em atraso.
+Este projeto foi iniciado a partir de um insight obtido através da análise de dados da `ContosoRetailDW` no Power BI. A análise revelou um número significativo de entregas atrasadas originadas da planta de Sorocaba do ano de 2022, especialmente na categoria de produtos `CA06`, que acumula mais de 13.000 entregas em atraso.
 
 ## Objetivo
 
