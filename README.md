@@ -4,6 +4,18 @@
 
 Este projeto foi iniciado a partir de um insight obtido através da análise de dados da `ContosoRetailDW` no Power BI. A análise revelou um número significativo de entregas atrasadas originadas da planta de Sorocaba do ano de 2022, especialmente na categoria de produtos `CA06`, que acumula mais de 13.000 entregas em atraso.
 
+## 📷 **Prévia do Dashboard**
+
+Abaixo estão algumas imagens da análise de entregas atrasadas:
+
+<p align="center">
+  <img src="https://github.com/LuucasGabriel/ContosoRetail_Rotas/blob/main/Dashboard%20Contoso%20Retail/Sales%20Late.png?raw=true" alt="Dashboard Principal" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/LuucasGabriel/ContosoRetail_Rotas/blob/main/Dashboard%20Contoso%20Retail/Sales%20Late%20Detail.png?raw=true" alt="Dashboard Principal" width="800"/>
+</p>
+
 ## Objetivo
 
 Com base nesse cenário, o objetivo deste projeto é realizar uma análise de rotas para identificar possíveis causas para os atrasos e propor soluções. A hipótese é que os atrasos podem ser causados por fatores como:
