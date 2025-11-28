@@ -1,4 +1,4 @@
-# Análise de Otimização de Rotas
+# Análise e Otimização de Rotas
 
 ## Motivação
 
