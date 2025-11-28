@@ -1,4 +1,4 @@
-# Análise de Otimização de Rotas - Contoso Retail (Planta Sorocaba)
+# Análise de Otimização de Rotas
 
 ## Motivação
 
